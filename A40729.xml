@@ -1,0 +1,851 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fumblers-Hall kept and holden in Feeble-Court, at the sign of the Labour-in-vain, in Dee-little-Lane, wherein divers complaints &amp; agrievances, out of the feminines in Cornucopia, are presented to the grave wisdoms of the masters of that company: concerning non-performance, want of due benevolence, deficiencie and corporal disabilities in man-kind, whereby poor distressed females languish under a pressing weight of misery, not only to the great decay of their trade and occupations, but to the destruction of generation it self. Whereunto is added the second part, newly discovered and set forth for information of delinquents that are to answer to these interrogations that shall be objected against them.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40729</idno>
+            <idno type="STC">Wing F2527A</idno>
+            <idno type="STC">ESTC R217407</idno>
+            <idno type="EEBO-CITATION">99829074</idno>
+            <idno type="PROQUEST">99829074</idno>
+            <idno type="VID">33510</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40729)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33510)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1986:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Fumblers-Hall kept and holden in Feeble-Court, at the sign of the Labour-in-vain, in Dee-little-Lane, wherein divers complaints &amp; agrievances, out of the feminines in Cornucopia, are presented to the grave wisdoms of the masters of that company: concerning non-performance, want of due benevolence, deficiencie and corporal disabilities in man-kind, whereby poor distressed females languish under a pressing weight of misery, not only to the great decay of their trade and occupations, but to the destruction of generation it self. Whereunto is added the second part, newly discovered and set forth for information of delinquents that are to answer to these interrogations that shall be objected against them.</title>
+               </titleStmt>
+               <extent>23, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Clarke, W. Thackeray, and T. Passinger,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>[1675]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Woodcut on verso of [A]1; title page on A2r.</note>
+                  <note>Place of publication conjectured by cataloger; publication date from Wing.</note>
+                  <note>Reproduction of the original in the Magdalene College Library, Cambridge.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Women --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="illustration">
+            <pb facs="tcp:33510:1" rendition="simple:additions"/>
+            <p>
+               <figure>
+                  <figDesc>man with horns on his head</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:33510:2"/>
+            <p>
+               <figure>
+                  <figDesc>man with horns on his head</figDesc>
+                  <head>Sir <hi>Fardinando Fumbler,</hi> Clerk of the Company.</head>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:33510:2"/>
+            <p>
+               <hi>Fumblers-Hall,</hi> KEPT And holden in <hi>Feeble-Court,</hi> at the ſign of the <hi>Labour-in-vain,</hi> in <hi>Dee-little-Lane.</hi>
+            </p>
+            <p>Wherein divers Complaints &amp; Agrievances, of the Feminines in <hi>Cornucopia,</hi> are preſent<g ref="char:EOLhyphen"/>ed to the grave wiſdoms of the Maſters of that Company: concerning Non-perfor<g ref="char:EOLhyphen"/>mance, want of due benevolence, Deficience and Corporal Diſabilities in Man-kind, whereby poor diſtreſſed Females Languiſh under a preſſing weight of miſery, not only to the great decay of their Trade and oc<g ref="char:EOLhyphen"/>cupations, but to the Deſtruction of Generation it ſelf.</p>
+            <p>Whereunto is Added the Second part, newly diſcovered and ſet forth for in<g ref="char:EOLhyphen"/>formation of delinquents that are to anſwer to theſe interrogations that ſhall be ob<g ref="char:EOLhyphen"/>jected againſt them.</p>
+            <p>Printed for <hi>I. Clarke, W. Thackeray,</hi> and <hi>T. Paſſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nger.</hi>
+            </p>
+         </div>
+         <div type="lists_of_complaints">
+            <pb facs="tcp:33510:3"/>
+            <head>The Summons being granted to Sir <hi>Fardinando Fumbler,</hi> Clerk of the ſaid Company, to Cite in theſe perſons following, <hi>Viz.</hi>
+            </head>
+            <list>
+               <item>
+                  <hi>Allice All-co<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k.</hi> Complaints againſt <hi>Sir Nicholas Frible</hi>
+               </item>
+               <item>
+                  <hi>Ione Wou'd-have-more,</hi> Complaints againſt <hi>Daniel Doe-little,</hi>
+               </item>
+               <item>
+                  <hi>Doll Hold-up,</hi> Complaints againſt <hi>Fran. Fain-would,</hi>
+               </item>
+               <item>
+                  <hi>Kate Knockwel,</hi> Complaints againſt <hi>Will. D<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y-bones,</hi>
+               </item>
+               <item>
+                  <hi>Nan Tickle-tail,</hi> Complaints againſt <hi>Peter Bad-cosk.</hi>
+               </item>
+               <item>
+                  <hi>Beſs Bear-up-ſtiff.</hi> Complaints againſt <hi>Simon Silly-P—</hi>
+               </item>
+            </list>
+            <p>VVho are all to anſwer to What ſhall be objected againſt them.</p>
+            <p>VVhereunto is added.</p>
+            <list>
+               <item>
+                  <hi>Margery Marall,</hi> againſt <hi>Iack Jolly-boy,</hi>
+               </item>
+               <item>
+                  <hi>Suſan Shrews-face,</hi> againſt <hi>Dick Draball,</hi>
+               </item>
+               <item>
+                  <hi>Cicilly Suc-pot,</hi> againſt <hi>Robin Rocks<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>by,</hi>
+               </item>
+               <item>
+                  <hi>Winney Wagtail.</hi> againſt <hi>Joſeph Wood-c<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>k</hi>
+               </item>
+            </list>
+            <p>All Delinquents, and to an<g ref="char:EOLhyphen"/>ſwer to their ſeveral crimes.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:33510:3"/>
+            <head>Fumblers-Hall.</head>
+            <div type="part">
+               <div type="prologue">
+                  <lg>
+                     <head>The PROLOGUE.</head>
+                     <l>Come you brave Artiſts of the horned trade</l>
+                     <l>That boaſt how many marr'd how many made,</l>
+                     <l>You need none but your own Artillery,</l>
+                     <l>To advance the miſtery of eniquity;</l>
+                     <l>The Su<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>u<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> are ſo f<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ll you well may rally</l>
+                     <l>From ſtreet, from lane, from court, form yard from alley</l>
+                     <l>B<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>th tag and rag, both ſhort as well as tall,</l>
+                     <l>May <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ll-a-row n<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>w march to <hi>Fumblers-Hall:</hi>
+                     </l>
+                     <l>There do your duties to prevent your ſcorns,</l>
+                     <l>Pay tribute to the vertue of the Horns.</l>
+                  </lg>
+               </div>
+               <div type="trial_accounts">
+                  <p>THe Females of <hi>Cornucopia,</hi> being a great number of agrieved Mor<g ref="char:EOLhyphen"/>tals that a long time have Lan<g ref="char:EOLhyphen"/>guiſhed: gnaw Sheets, eat Oat<g ref="char:EOLhyphen"/>meal, and licked Walls for ſatisfaction of their longing deſires, &amp; finding none to pitty their caſes, but growing worſe and worſe in their deſired faculty, reſol<g ref="char:EOLhyphen"/>ved with one conſent to draw up their a<g ref="char:EOLhyphen"/>grievances; and preſent them to the Ma<g ref="char:EOLhyphen"/>ſters
+<pb n="6" facs="tcp:33510:4"/> of the Corporation of <hi>Fumblers-Hall,</hi> The ſaid Maſters being Twenty four in number, whereof twelve were Men-Mid<g ref="char:EOLhyphen"/>wives, the other, Sons of Apothecaries, that had ſtudied <hi>Ariſtotles Problems,</hi> the <hi>Birth of Man,</hi> &amp; divers learned Authors, that hath treated largely on the Art and Occupation of the Femenines, in the way of Fructification, and increaſe of their Members: theſe being head men of the City of <hi>Cornucopia,</hi> having many com<g ref="char:EOLhyphen"/>plaints and Agrievances preſented them from the agrieved parties of Females in &amp; about t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e City, reſolved to build them <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> new Hall, all the Timber thereof be<g ref="char:EOLhyphen"/>ing horn-beam, &amp; a roof of Unicorn Horn, <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>hly guilded, Studded, and Imboſied with leſſer Horns, of all ſorts of colours: the Table, Chair<g ref="char:punc">▪</g> and ſtools, being all of them of the ſame Livery: This Hall for the curioſity thereof, as far exceeded a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l other Halls, as the Croſs in <hi>Cheap ſide</hi> did exceed the horned Pillar in <hi>Kent;</hi> being built in <hi>Feeble-Court,</hi> at the ſign or the la<g ref="char:EOLhyphen"/>bour-in-vain, near unto the Maid<g ref="char:EOLhyphen"/>en-head in <hi>Doe-little-Lane;</hi> where the Court being ſet, Sir <hi>Fardinando Fumbler</hi> called in theſe perſons following.</p>
+                  <sp>
+                     <speaker>Clerk.</speaker>
+                     <p>
+                        <hi>Alice Allcock,</hi> and Sir <hi>Nicola<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> 
+                           <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>rible,</hi> come into the Court, and anſwer to
+<pb n="7" facs="tcp:33510:4"/> thoſe objections alledging each from o<g ref="char:EOLhyphen"/>ther.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Maſter.</speaker>
+                     <p>
+                        <hi>Speak</hi> Allice, <hi>what canſt thou ſay againſt Sir</hi> Nicholas?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Alice.</speaker>
+                     <p>An't pleaſe this Honourable Ta<g ref="char:EOLhyphen"/>ble, I have been his obedient Creature, waking and ſleeping, theſe 3 long years, and yet am as pure a Virgin, as ever lay by the ſide of a young Bride-groom; &amp; ſo am like to continue for him, whereby I receive many taunts and jeers of my Neighbours, who call me <hi>Barren-Doe,</hi> &amp; and a thouſand ſuch names: when 'ris known, Gentlemen, the fault is not mine in the leaſt: I have done my endeavour up and down, ever ſince I was his Wife, fed him with Anchovis, Caviarre, bought bottles of Muskadine, Montefiſ<g ref="char:EOLhyphen"/>co Frontimack: <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nay, he has wanted no<g ref="char:EOLhyphen"/>thing that the induſtery of Woman could invent, to make him capable of doing his duty: Yet he is no more to me, Gentle<g ref="char:EOLhyphen"/>men, than a ſtraw in the Noſtrils of a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ow, a very ſlug, a meer frible, an it pleaſe ye, Gentlemen hear what he can al<g ref="char:EOLhyphen"/>ledge for himſelf.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Maſt.</speaker>
+                     <p>
+                        <hi>Sir</hi> Nicolas <hi>anſwer for your ſelf, what can you alledge againſt the accuſation of the Woman?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir <hi>Nicholas.</hi>
+                     </speaker>
+                     <p>So pleaſe your Grave
+<pb n="8" facs="tcp:33510:5"/> Worſhips to conſider of the Impudence of this woman, who is more inſatiate then the Grave, nay, Hell it ſelf: no man though never ſo luſty, being able to give her ſatisfaction: beſides, one fluttiſh naſ<g ref="char:EOLhyphen"/>ty trick ſhe hath, that every night ſhe Faris in her ſleep, which above all the reſt of her bad qualities, is moſt hateful to me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Maſt.</speaker>
+                     <p>
+                        <hi>That is but a weak infirmity Sir</hi> Ni<g ref="char:EOLhyphen"/>cholas; <hi>you know he that refuſeth a wife for a Fart, a Horſe for a ſtart, and a Groat for a crack, ſhall never be well wiv'd, well Hors'd, nor well money'd; come, come, Sir</hi> Nicholas, <hi>you muſt bear with her weakneſs, ſhe is a wo<g ref="char:EOLhyphen"/>man, and your wife.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Ali<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e.</speaker>
+                     <p>I, and will be a woman too in ſpight of his teeth, or elſe i'le want of my will, cannot I break wind when I catch cold, but you muſt mouth it?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Maſt.</speaker>
+                     <p>
+                        <hi>A Womans will indeed, is a reſolute beaſt, and deſerves a ſtrong kirb; if they once get a bit in their mouth they'l run to the devil.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Sir Nick.</speaker>
+                     <l>
+                        <hi>Therefore ile flye them, as I flye from evil.</hi>
+                     </l>
+                     <l>
+                        <hi>And ſhun bad women, as i'de ſhun the Devil.</hi>
+                     </l>
+                  </sp>
+                  <stage>
+                     <hi>(Exit, Sir</hi> Nick. <hi>and</hi> Alice.)</stage>
+                  <sp>
+                     <speaker>Maſt.</speaker>
+                     <p>
+                        <hi>Clerk; Call in <hi>Ione Wood h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>-more</hi> and Daniel Doe-l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ttle, to anſwer what ſhall be objected each by other.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>
+                        <pb n="9" facs="tcp:33510:5"/>Clerk.</speaker>
+                     <p>
+                        <hi>Jone. Wood-have-more,</hi> and <hi>Dani<g ref="char:EOLhyphen"/>el Doe-little</hi> appear in the Court, and bring your Summons with you,</p>
+                     <stage>Enter <hi>Ione Wood-have-more,</hi> and <hi>Daniel Doe-little.</hi>
+                     </stage>
+                  </sp>
+                  <sp>
+                     <speaker>Maſt.</speaker>
+                     <p>Ione, <hi>What canſt thou ſay againſt</hi> Daniel? <hi>is he not a loving husband to thee?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Ione.</speaker>
+                     <p>I cannot ſay but he is loving enough, but love is not all that pleaſeth a Woman, will love beget ſuch beautiful Children as my neighbour <hi>K.</hi> or my neighbour <hi>B.</hi> hath; no, no, Love will not do it alone: I muſt confeſs he is a Mu<g ref="char:EOLhyphen"/>ſitian, and as timberſome a man as any lives in <hi>Cock-Lane,</hi> yet has but a meer Gut, a Chitterling, a Fiddle-ſtring, that will make no muſick to a Womans In<g ref="char:EOLhyphen"/>ſtrument; yet when I tell him on't, he pulls it out and ſhakes it, and puts up his Fiddle-ſtick again, falls a kiſſing of me, &amp; with a few other Iack-Puddings tricks, thinks that ſufficient ſatisfaction; but this is the ſhort &amp; the long of the bu<g ref="char:EOLhyphen"/>ſineſs, I have been his wife long enough, and have found his performances to be meer fooling, and no real perfo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>mance at all: as a fine ſpeech to a ro<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>en Puppit<g ref="char:EOLhyphen"/>play; but I look for Reality Gentle<g ref="char:EOLhyphen"/>men,
+<pb n="10" facs="tcp:33510:6"/> and to have Children as well as my Neighbours: 'tis not now and then a Hoop-ring will pleaſe me, No, no, i'le get a Cooper i'le warrant him, that ſhall not want an Addze to labour withal.</p>
+                     <l>
+                        <hi>No Woman can indure ſo vile a wrong,</hi>
+                     </l>
+                     <l>
+                        <hi>As too too ſhort, or have it too too long.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Maſt.</speaker>
+                     <p>Daniel, <hi>what ſay'ſt for thy ſelf?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Daniel.</speaker>
+                     <p>Will ye pleaſe to ſee, and if here be not enough to content any Woman in <hi>England</hi> ile—</p>
+                  </sp>
+                  <sp>
+                     <speaker>Maſt.</speaker>
+                     <p>
+                        <hi>Fie on him uncivil beaſt, kick uim out of the Court, and commit him cloſe pri<g ref="char:EOLhyphen"/>ſoner to his own Horn-Pipe, and grant Ione liſcence of freedom, to uſe and occupy for a a year and a day, and then this buſineſs to be called over again.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Ione.</speaker>
+                     <p>I humble thank your good Wor<g ref="char:EOLhyphen"/>ſhips, I ſhall not be unthankful to you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>D.</speaker>
+                     <l>
+                        <hi>This is a doom I little thought to have.</hi>
+                     </l>
+                     <l>
+                        <hi>For natures gifts to be a womans ſlave.</hi>
+                     </l>
+                     <stage>
+                        <hi>Exit</hi> Ione <hi>and</hi> Daniel.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Maſt.</speaker>
+                     <p>
+                        <hi>Call in two more.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Clerk.</speaker>
+                     <p>
+                        <hi>Doll Hold up,</hi> and <hi>Frances Fain<g ref="char:EOLhyphen"/>would,</hi> appear in the Court.</p>
+                     <stage>Enter <hi>Doll Hold up,</hi> &amp; <hi>Fran. Fain-would.</hi>
+                     </stage>
+                  </sp>
+                  <sp>
+                     <speaker>Doll.</speaker>
+                     <p>Nay, I can hold-up &amp; hold forth too, I have been at the Mouth at <hi>Alders<g ref="char:EOLhyphen"/>gate,</hi> and as loud as the beſt of them all; I have knocked down humane Learning,
+<pb n="11" facs="tcp:33510:6"/> and have a Spirit i'le warrant thee that will teach thee ſomething: Brother <hi>P.</hi> will not come to it like a Bear ward, or a Fe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>cer, or a rude Cavileer that will ſwear dam him he will, but like a right ſpiritual Brother, ſeaſoned for the work, and according to the right Rule of Foun<g ref="char:EOLhyphen"/>dation of Generation. O the rudeneſs of theſe wicked men, good People caſt them from you, let not the Wicked's Seed be ſown in the ground of the Righteous, I beſeech you caſt them from you: though the World calls them Husbands, they are Thieves &amp; Robbers, Men of this world, that ſhall have their Portion in the Lake, the foul Lake.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Maſt.</speaker>
+                     <p>
+                        <hi>This is a Quaker, away with her, if her Spirit be once rais'd, all the Devils in Hell cannot lay it again.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Doll.</speaker>
+                     <p>Thou art a Lyar, a D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>g, a Toaſt of the foul Pit, the froth and ſeuin of hell.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Maſter.</speaker>
+                     <p>
+                        <hi>Avoid Satan, i'le not hear a word more.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Fran.</speaker>
+                     <p>I fain would have reclaimedher from her Meetings, but it is as good to try to waſh a Black-a-moor White, or to lade dry the Thames with a ſpoon, as to ſeek to turn her from her perverſe will. Pleaſe her I cannot, but ſhe calls me diſ<g ref="char:EOLhyphen"/>ſembling Lyat, Devil, nay; and makes
+<pb n="12" facs="tcp:33510:7"/> Horns in deriſion.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Maſt.</speaker>
+                     <p>
+                        <hi>An abſolute breach of priviledge, and deſerv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>s a ſevere puniſhment.</hi> Clerk, <hi>make her Mittimus into</hi> Horn-Caſtle, <hi>where ſhe may continue cloſe, ſafe, and ſtrickt im<g ref="char:EOLhyphen"/>priſonment for a year and a day: and for ho<g ref="char:EOLhyphen"/>neſt</hi> Frances, I one Wood-have-more <hi>may do well to employ him to do her Noctural drudgeries.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Fran.</speaker>
+                     <p>If it be Digging or knocking, have at her. I can <hi>Humbore</hi> too, and have <hi>P</hi>—and praiſe abroad, though I can have none at home: but from all Quakers, Iohn-a-bob-tails, Brownings, and ſha<g ref="char:EOLhyphen"/>kers, Good Lord deliver me.</p>
+                     <l>
+                        <hi>For when pretended Zeal doth lead aſtray,</hi>
+                     </l>
+                     <l>
+                        <hi>Vertue forſakes, &amp; vice doth ſhew the way.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Maſt,</speaker>
+                     <p>
+                        <hi>Sure the Devil would not marry a Quaker, if they be ſo perverſe. Call in ſome more of them and ſee what they are.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Clerk.</speaker>
+                     <p>
+                        <hi>Kate Knock-well,</hi> and <hi>William Dry-bones</hi> appear in the Court.</p>
+                     <stage>Enter <hi>Kate Knock-well,</hi> and <hi>William Dry-bones.</hi>
+                     </stage>
+                  </sp>
+                  <sp>
+                     <speaker>Maſt.</speaker>
+                     <p>
+                        <hi>Come bonny</hi> Kate, <hi>what canſt thou alledge againſt thy Husband,</hi> William Dry<g ref="char:EOLhyphen"/>bones?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Kate.</speaker>
+                     <p>An't pleaſe your Worſhips I have
+<pb n="13" facs="tcp:33510:7"/> been married theſe ſix years, and yet can find no comfort at all be fitting a woman; he told me he was a Clerk, but the Devil of one drop of Ink have I found in his Pen ſince I married him, whatſoe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>er he had before; He is dry, dry as a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ix: Gentlemen, therefore I pray conſider of a poor woman, I am F<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>cſh and blood as your Wives are, Gentlemen: Therefore either grant me Liſcence to uſe my own, or I will do it, and do it again: we Wo<g ref="char:EOLhyphen"/>men muſt &amp; will have our benevol<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nce.</p>
+                     <lg>
+                        <l>
+                           <hi>The World was never yet ſo dull,</hi>
+                        </l>
+                        <l>
+                           <hi>If one Koave won't another will.</hi>
+                        </l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>Will.</speaker>
+                     <p>Were a Mans body a full Mary bone, thoud'ſt quickly draw it dry, I war<g ref="char:EOLhyphen"/>rant thee, thou weareſt thy Magnetick ſtone under thy apron<g ref="char:punc">▪</g> that will draw more then the ſuccour of a well, or a team of <hi>Flanders</hi> Mares, and if it be true that ſome ſay that love is a well, they'l drain the ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ring dry, were it as deep as hell.</p>
+                     <l>
+                        <hi>But <hi>I</hi> know the worſt, Horns are my fate,</hi>
+                     </l>
+                     <l>
+                        <hi>And horns do ſometimes deck a Iordly pate.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Maſt.</speaker>
+                     <p>
+                        <hi>He hath confeſt himſelf a dry fellow, make</hi> Kate <hi>a commiſſion to uſe her Talent,
+<pb n="14" facs="tcp:33510:8"/> while he hath recruited his lamp, &amp; then both parties will be pleaſed.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Kate.</speaker>
+                     <l>
+                        <hi>I am your Worſhips humble</hi>
+                     </l>
+                     <l>
+                        <hi>Hand-maid, and do tell,</hi>
+                     </l>
+                     <l>
+                        <hi>He that knocks beſt,</hi>
+                     </l>
+                     <l>
+                        <hi>Can knock at beſt but well.</hi>
+                     </l>
+                  </sp>
+                  <stage>Exit <hi>Kate</hi> and <hi>Dry-bones.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Maſt.</speaker>
+                     <p>
+                        <hi>Call in</hi> Nan Tickle-tail, <hi>and</hi> Pe<g ref="char:EOLhyphen"/>ter Bad-cock. <stage>(both enter.)</stage>
+                     </p>
+                     <p>
+                        <hi>Come</hi> Nan <hi>ſpeak for thy ſelf, &amp; ſpeak truth.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Nan.</speaker>
+                     <p>So I will an it pleaſe your Wor<g ref="char:EOLhyphen"/>ſhip, I have been married two years, &amp; had as good I had never been married at all, he has been at <hi>Burnt-Wood</hi> an't pleaſe ye, the Barbar plaid the Iew with him, and inſtead of part, cut off all: he has not ſo much as would ſatisfie a Duck at a mouthful, an it pleaſe you: I hid it a long time for ſhame and reproach of peo<g ref="char:EOLhyphen"/>ple, but no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>a I can hide it no longer: at night he quarrcls with me in bed, but hang him <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ingling Raſcal, all the dogs in <hi>Cornucopia</hi> are little enough to bait him: Women are well hope up to marry with ſuch Geldings.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Peter.</speaker>
+                     <p>It is well known I was a ſound man when I married thee, <hi>Nan Tickle<g ref="char:EOLhyphen"/>tail,</hi> you have tickled me with the Pox when I was knocking at the Anvil, you were in Conjuncton with <hi>Tom</hi> the Ioy<g ref="char:EOLhyphen"/>ner,
+<pb n="15" facs="tcp:33510:8"/> and would come home as drunk as a Sow, and call me at your pleaſure: pawn Pettiroat, Smock, Waſtcoat, and all to fre an Attoorney to maintain your honeſ<g ref="char:EOLhyphen"/>ty, forſooth; though you have offended no leſs then three times, ſince you were my Wife; and once in the Cage, when the Taylors man in <hi>Black-Fryers</hi> had taken meaſure of your hide for a young bant<g ref="char:EOLhyphen"/>ling, you know who you was beholding too for a three-penny caudle, and a half<g ref="char:EOLhyphen"/>penny candle to ſtick in clay at the Beds<g ref="char:EOLhyphen"/>head, every feather i'm ſure was an ell loug: then you would come creeping home, crying good <hi>Peter,</hi> ſweer <hi>Peter,</hi> re<g ref="char:EOLhyphen"/>ceive in thy <hi>Nan,</hi> and I will work, and not deſire a Penny of thee, but now whoſe worſe then <hi>Peter;</hi> but I believe <hi>Peter</hi> muſt be the beſt flower in your Garden, when all is done.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Nan.</speaker>
+                     <p>To him my Dog, to him my Dog, hallo, hollo, to him my Dog.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Pet.</speaker>
+                     <l>
+                        <hi>The Devil is hunting, ſure for why?</hi>
+                     </l>
+                     <l>
+                        <hi>Women more loud then Dogs, their game will cry.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Maſt.</speaker>
+                     <p>
+                        <hi>The buſineſs is very foul between both, let it be referred to our next ſitting, &amp; call in the reſt.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Clerk.</speaker>
+                     <p>
+                        <hi>Beſs Bear-up-ſtiff,</hi> come into the Court and anſwer for thy ſelf.</p>
+                     <pb n="16" facs="tcp:33510:9"/>
+                     <stage>Enter <hi>Beſs</hi> and <hi>Simon Silly.</hi>
+                     </stage>
+                  </sp>
+                  <sp>
+                     <speaker>Beſs.</speaker>
+                     <p>As I am an honeſt and upright Woman, i'le have Iuſtice againſt him for a Natural: this <hi>Simon Silly</hi> has enough on't, and enough to content any honeſt wo<g ref="char:EOLhyphen"/>man, if he knew how to uſe it; and bid him turn to me, he grins in my fare, like Pugg upon a Cloſe-ſtool, and turn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> his breech upon me, ſaith, he can play by himſelf. O Gentlemen, you little think what ſhifts I am driven too, to ſatisfie my longings.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Sim.</speaker>
+                     <p>You took the parſnip you Queen, and made me eat it without butter, when you had done. Another time you put me to ſcour on old Copper, and lay with the Tinker all the while: another time you ſent me for Beer for the Weaver, when I looked in at the window and ſaw all; and yet you perſwade me the Moon was in the twincle, and made the Glaſs ſhew every thing double.</p>
+                     <l>
+                        <hi>Well, well, i'le ſay but little more,</hi>
+                     </l>
+                     <l>
+                        <hi>No man was ever curſt with ſuch a Whore.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Maſt.</speaker>
+                     <p>
+                        <hi>Make her a paſs for</hi> Jam<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>co, <hi>ſend for a yellow coat</hi> Franciſco <hi>ſhe ſhall be baniſhed.</hi>
+                     </p>
+                  </sp>
+                  <gap reason="illegible: missing" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <pb n="17" facs="tcp:33510:9"/>
+                  <sp>
+                     <p>men come with complaints that they <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>vercome me with their clamours: ſome ſcolding, ſome ſwearing, and ſome cur<g ref="char:EOLhyphen"/>ſing their Husbands, and threatning the Worſhipful <gap reason="illegible" resp="#MURP" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>h.</p>
+                     <l>
+                        <hi>Women corrupt, inrag'd, deny'd their wills,</hi>
+                     </l>
+                     <l>
+                        <hi>Conſume like fire, &amp; worſe then worſeſt ills.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Maſter.</speaker>
+                     <l>I fear their rage, leſt they o're men ſhould ſway.</l>
+                     <l>Adjourn the court until another day,</l>
+                  </sp>
+               </div>
+            </div>
+            <div type="part">
+               <head>The Second Part</head>
+               <div type="prologue">
+                  <head>PROLOGUE.</head>
+                  <l>YOu that are maim'd in <hi>Venus</hi> Wars,</l>
+                  <l>Ne'r ſaw ſervice, yet have ſcars;</l>
+                  <l>You that play and never win,</l>
+                  <l>At the Game of In and In:</l>
+                  <l>Wives that draw as ſtrong as Leeches,</l>
+                  <l>Women that do wear the Breeches;</l>
+                  <l>You that have your ground lye fallow,</l>
+                  <l>
+                     <hi>Rachel Riggle, Suſan ſwallow:</hi>
+                  </l>
+                  <l>If your caſes will bear action,</l>
+                  <l>Here you may have ſatisfaction.</l>
+               </div>
+               <div type="trial_accounts">
+                  <sp>
+                     <speaker>
+                        <pb n="18" facs="tcp:33510:10"/>Clerk.</speaker>
+                     <p>
+                        <hi>I Perceive we muſt with ſpeed call a new Court, therefore it ſhall not be a miſs to provide two horned Maces, that may ſpread themſelves from one ſide of the ſtreets to the other, to clear all before us, and to procure ſome attendance on <hi>Mars</hi>'s Livery to guard us: and for that end I have beſpoken a Horn-work, that is already made, being a font of invincible ſtrength to curb thoſe that ſhall inſult over us; raiſe any Mutiny, o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> diſturb the Proceedings of our Court: and now, ſince we have all thing<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> 
+                           <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> readineſs, let us proclaim our Court, and proceed to Juſtice.</hi>
+                     </p>
+                     <p>
+                        <hi>O Yes, O Yes, O Yes; If there be any Man or Woman, in City, Town or Country, that hath been Marryed a Year and a Day, and cannot have their deſires of ea<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> other, in perfo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                           <g ref="char:EOLhyphen"/>mance of Covenants, they have free liberty to d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>aw up their ag<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>vances, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ud preſent th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>m to Fumblers-Hall, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> they ſhall have ſp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>edy re<g ref="char:EOLhyphen"/>dreſs. Or if a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>y <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e troubled with the Yellows, or Corns on their Fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>e-Heads, or the Napes of their Necks, they ſhall (paying the Fees of the Court) be ſuddenly cured of the ſame.</hi>
+                     </p>
+                     <p>But I hear the Din already, that the
+<pb n="19" facs="tcp:33510:10"/> Bench is ſat, and the company crowd<g ref="char:EOLhyphen"/>ing in, and therefore I muſt make no de<g ref="char:EOLhyphen"/>lay, but proceed to read their India<g ref="char:EOLhyphen"/>ments; therefore <hi>Mary Mar-all</hi> and <hi>John Jolly-boy,</hi> appear in the Court, and an<g ref="char:EOLhyphen"/>ſwer to your ſeveral Indictments, up<g ref="char:EOLhyphen"/>on the forfeiture of your recognizances.</p>
+                     <stage>Enter <hi>Margery Mar-all,</hi> and <hi>John Iolly-boy.</hi>
+                     </stage>
+                  </sp>
+                  <sp>
+                     <speaker>Marg.</speaker>
+                     <p>I deſire of the Court, that I may firſt ſpeak for my ſelf. I am a Woman my Lord, and have nothing to defend me but my Tongue, and I am bleſt with more wit then my Husband, why ſhould not I advance it to my uttermoſt profit? Yes, I will in ſpight of Fate: and ſince I have Marryed a Fool, a Fool I'le make of him; My Lord, he is not capable of ruling a Wife, and therefore 'tis fit a Wife ſhould rule him; it muſt be a wiſe Man that governs a Woman, my Lord.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Iohn.</speaker>
+                     <p>Ant pleaſe you my Lord, I had good Lands and Livings, Houſes, and Houſe-hold-ſtuff, Cattel, and Pullen abomination, all which I made her Miſtris of, though ſhe had not a Smock to her breech, when I firſt marryed her:
+<pb n="20" facs="tcp:33510:11"/> preſently after ſhe ingroſſed all to her ſelf, became a free-ſtate, and made me (not a Duke of <hi>Venice)</hi> but a meet pro<g ref="char:EOLhyphen"/>perty, a <hi>Iohn Hold-my-ſtaff,</hi> an't pleaſe ye: ſo that I could not be Maſter of a Penny I had: ſhe made me Dine with her Servants too, and lye above in the Garret, where ſhe would lock me in e<g ref="char:EOLhyphen"/>very night, and let me out at her plea<g ref="char:EOLhyphen"/>ſure. If this be fair my Lord, I ap<g ref="char:EOLhyphen"/>peal to the Wiſdom of your Court: nay, ſhe kept retainers too, and would lock me up in the Celler amongſt the ſmall-Beer, while ſhe was above in the Cham<g ref="char:EOLhyphen"/>ber with her Bottles of Wine, Sweet<g ref="char:EOLhyphen"/>meats, and other Iunke<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s, Well my Lords, none knows where the Shooe wrings but my ſelf: If it where your Lordſhips caſe, as it is mine, I am ſure you would never endure it.</p>
+                     <l>
+                        <hi>That Man that let's his Wife bear rule,</hi>
+                     </l>
+                     <l>
+                        <hi>Shall be both Wittal, Cuckold, and fool.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Maſt.</speaker>
+                     <p>Come, come, I ſay you ſhall ſubmit to your Wife, and be a good Subject too, you had beſt, or you ſhall hear from us.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Marg.</speaker>
+                     <p>I thank your Honour, I'le warrant you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Clerk.</speaker>
+                     <p>
+                        <hi>Suſan Shrews-face,</hi> and <hi>Richard Drab-all,</hi> appear in the Court, and an<g ref="char:EOLhyphen"/>ſwer
+<pb n="21" facs="tcp:33510:11"/> to what ſhall be objected againſt you.</p>
+                     <stage>Enter <hi>Seuſan Shrews-face,</hi> and <hi>Dick Drab-all.</hi>
+                     </stage>
+                  </sp>
+                  <sp>
+                     <speaker>Suſan.</speaker>
+                     <p>Gentlemen, they ſay a curſt Cow hath ſhort Horns, but they that meddle with me ſhall find that I have Horns, Sting, and Venome too, beſides theſe ten Weapons at my fingers ends, call 'um what you will: if I charge, 'tis not with falſe fire, but with Grana<g ref="char:EOLhyphen"/>does, Wild-fire, and the Artillery of Miſchief, that ever a Woman can in<g ref="char:EOLhyphen"/>vent; if I once give the Allarum, be<g ref="char:EOLhyphen"/>ware of my Gun-ſhot with power, i'le fall on right or wrong; would I could ſee any ſneaking Cuckold of them all that dares to charge me: <hi>Uts Fut,</hi> I'le quickly make him know ſorrow, ſaw off his Horns, and put him to Graſs; my <hi>Nicodemus</hi> follows Whores, an't pleaſe ye, ſpends all, Pawns his very breeches from his arſe for 'um, 'twould make an Honeſt Woman ſpeak, that had never a Tongue: they call me Shrew, but bet<g ref="char:EOLhyphen"/>ter be Shrew then a Sheep, though I have a Sheeps-head to my Husband, that's bewitched to deſſembling whores whoſe faces are Lures, their Beauties Baits, their looks Net<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, and their
+<pb n="22" facs="tcp:33510:12"/> Charms: and all to be witch ſilly Gulls and to bring them to ſiuine.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dick.</speaker>
+                     <p>Patience good Wife, 'tis thy <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>urſtneſs that undoes me, and makes me run-out.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Suſan.</speaker>
+                     <p>Sirrah, I'le thunder ſuch a Peal in your ears, ſhall drive thee and thy Whores from <hi>Bridewell</hi> to <hi>Newgate,</hi> and from thence to the Devil; I'le make C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ubs Trumps: and therefore, look to thy Coxcomb. <hi>(beats him)</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Dick.</speaker>
+                     <p>O good wife, ſpare but my life, and i'le mend preſently.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Suſan.</speaker>
+                     <p>No, i'le ſcratch, tear, and kick thee limb from limb: and blow thee round the World as Attoms.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Dick.</speaker>
+                     <l>
+                        <hi>What greater miſery breeds a poor mans curſe,</hi>
+                     </l>
+                     <l>
+                        <hi>Then a bad wife, a whore, or empty purſe.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Maſt.</speaker>
+                     <p>The Iudgment of the Court is that for thy Fornication, thou ſhalt live wretched, and Dye a Beggar, thy wifes Tongue ringing thy dying Peal, Call in the reſt</p>
+                  </sp>
+                  <sp>
+                     <speaker>Clerk.</speaker>
+                     <p>
+                        <hi>Siſly Suck-pot, Robert Rooksby, Winny Wagtail, Joſeph Woodcock,</hi> ap<g ref="char:EOLhyphen"/>pear in the Court, and ſave your Bayl. <hi>(from without)</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Meſſ.</speaker>
+                     <p>Sir, here's all the Scolds and Alley-birds in <hi>London,</hi> and the <hi>Suburbs,</hi>
+                        <pb n="23" facs="tcp:33510:12"/> for their Liberties and Freedoms, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ot<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ongues, and T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>les: they th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e aren and ſpeak high words againſt this Court: there fore <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ight I advi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e you, you ſhall adjourn the Court, for fear of further miſchief: for they ſing like Par<g ref="char:EOLhyphen"/>rots, are all Horn-mad, carrying the <hi>Midſummer-Moon</hi> in their Banners.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Maſt.</speaker>
+                     <p>'Tis good Council, Women a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e full of danger, and too ſubtile for we Men: therefore we will take your Councel. <hi>Clerk.</hi> Adjourn our Court <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n<g ref="char:EOLhyphen"/>tif another time, and give n<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ice to all the more civil Women, that they ſhall ſhortly expect the Songs of theſe Al<g ref="char:EOLhyphen"/>ley-Birds.</p>
+                     <l>
+                        <hi>Which if it can but once delight 'um;</hi>
+                     </l>
+                     <l>
+                        <hi>The D<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>vil after can't affright 'um.</hi>
+                     </l>
+                  </sp>
+               </div>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="epilogue">
+            <lg>
+               <head>EPILOG<g ref="char:V">Ʋ</g>E.</head>
+               <l>IN the mean time good Women all,</l>
+               <l>You'r welcome to our <hi>Fumblers Hall,</hi>
+               </l>
+               <l>Of your own will you cannot fail,</l>
+               <l>To have content from head to tail.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:33510:13"/>
+         </div>
+         <div type="summons">
+            <head>The Summons.</head>
+            <p>
+               <hi>THESE</hi> are to Will and require.</p>
+            <p>
+               <hi>That upon preſent Summons by Vertue of theſe preſents he forth with maketh his Perſonal appearance at Fumblers-Hall, in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>-Court, at the ſign of the La<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ur-<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>vuin, near unto the M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>idenbead in Doe-l<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tle Lane,</hi> there to anſwer for his corporal diſabilities, and ſuch other charge as ſhall be objected againſt him by the preſent power, as he will anſwer the contrary at his peril.</p>
+            <closer>
+               <dateline>Given under our Hands.</dateline>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Ben. Badcock.</hi>
+                     </item>
+                     <item>
+                        <hi>Dan. Doe-little.</hi>
+                     </item>
+                     <item>
+                        <hi>Fran. Fain-would</hi>
+                     </item>
+                     <item>
+                        <hi>W. Would-do-more</hi>
+                     </item>
+                     <item>
+                        <hi>Peter Prickleſs.</hi>
+                     </item>
+                  </list>
+               </signed>
+               <signed>Sir <hi>Fardinando Fum<g ref="char:EOLhyphen"/>bler,</hi> Clerk of the Company.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
